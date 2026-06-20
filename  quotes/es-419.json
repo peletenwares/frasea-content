@@ -1,405 +1,831 @@
-[ {
-  "id" : 1,
-  "texto" : "El único límite a nuestros logros de mañana está en nuestras dudas de hoy.",
-  "autor" : "Franklin D. Roosevelt"
-}, {
-  "id" : 2,
-  "texto" : "Haz lo que puedes, con lo que tienes, donde estás.",
-  "autor" : "Theodore Roosevelt"
-}, {
-  "id" : 3,
-  "texto" : "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
-  "autor" : "John Lennon"
-}, {
-  "id" : 4,
-  "texto" : "No vivas para que tu presencia se note, sino para que tu falta se sienta.",
-  "autor" : "Bob Marley"
-}, {
-  "id" : 5,
-  "texto" : "El éxito no es definitivo, el fracaso no es fatal: es el coraje de continuar lo que cuenta.",
-  "autor" : "Winston Churchill"
-}, {
-  "id" : 6,
-  "texto" : "El único modo de hacer un gran trabajo es amar lo que haces.",
-  "autor" : "Steve Jobs"
-}, {
-  "id" : 7,
-  "texto" : "Sé tú mismo; todos los demás ya están ocupados.",
-  "autor" : "Oscar Wilde"
-}, {
-  "id" : 8,
-  "texto" : "No cuentes los días, haz que los días cuenten.",
-  "autor" : "Muhammad Ali"
-}, {
-  "id" : 9,
-  "texto" : "La vida es un 10% lo que me ocurre y un 90% cómo reacciono a ello.",
-  "autor" : "Charles R. Swindoll"
-}, {
-  "id" : 10,
-  "texto" : "En la vida no se trata de tener buenas cartas, sino de jugar bien las que uno tiene.",
-  "autor" : "Josh Billings"
-}, {
-  "id" : 11,
-  "texto" : "La felicidad no es algo ya hecho. Viene de tus propias acciones.",
-  "autor" : "Dalai Lama"
-}, {
-  "id" : 12,
-  "texto" : "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
-  "autor" : "Isaac Newton"
-}, {
-  "id" : 13,
-  "texto" : "La imaginación es más importante que el conocimiento.",
-  "autor" : "Albert Einstein"
-}, {
-  "id" : 14,
-  "texto" : "Lo único imposible es aquello que no intentas.",
-  "autor" : "Desconocido"
-}, {
-  "id" : 15,
-  "texto" : "Si buscas resultados distintos, no hagas siempre lo mismo.",
-  "autor" : "Albert Einstein"
-}, {
-  "id" : 16,
-  "texto" : "No es la montaña la que conquistamos, sino a nosotros mismos.",
-  "autor" : "Edmund Hillary"
-}, {
-  "id" : 17,
-  "texto" : "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
-  "autor" : "Eleanor Roosevelt"
-}, {
-  "id" : 18,
-  "texto" : "Lo que haces hoy puede mejorar todos tus mañanas.",
-  "autor" : "Ralph Marston"
-}, {
-  "id" : 19,
-  "texto" : "El éxito es tropezar de fracaso en fracaso sin perder el entusiasmo.",
-  "autor" : "Winston S. Churchill"
-}, {
-  "id" : 20,
-  "texto" : "La perseverancia no es una larga carrera; son muchas carreras cortas, una tras otra.",
-  "autor" : "Walter Elliot"
-}, {
-  "id" : 21,
-  "texto" : "Sólo aquellos que se atreven a tener grandes fracasos terminan consiguiendo grandes éxitos.",
-  "autor" : "Robert F. Kennedy"
-}, {
-  "id" : 22,
-  "texto" : "El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.",
-  "autor" : "Helen Keller"
-}, {
-  "id" : 23,
-  "texto" : "Actúa como si lo que haces marca la diferencia. Lo hace.",
-  "autor" : "William James"
-}, {
-  "id" : 24,
-  "texto" : "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora.",
-  "autor" : "Proverbio chino"
-}, {
-  "id" : 25,
-  "texto" : "Nuestros sueños pueden convertirse en realidad si los deseamos tanto como para ir tras ellos.",
-  "autor" : "Walt Disney"
-}, {
-  "id" : 26,
-  "texto" : "La mejor manera de predecir el futuro es inventándolo.",
-  "autor" : "Alan Kay"
-}, {
-  "id" : 27,
-  "texto" : "El coraje no siempre ruge. A veces, el coraje es la pequeña voz al final del día que dice: intentaré de nuevo mañana.",
-  "autor" : "Mary Anne Radmacher"
-}, {
-  "id" : 28,
-  "texto" : "El éxito no se mide por lo que logras, sino por los obstáculos que superas.",
-  "autor" : "Booker T. Washington"
-}, {
-  "id" : 29,
-  "texto" : "Cree en ti mismo y todo lo que eres. Saber que hay algo dentro de ti que es más grande que cualquier obstáculo.",
-  "autor" : "Christian D. Larson"
-}, {
-  "id" : 30,
-  "texto" : "Lo difícil se hace de inmediato; lo imposible tarda un poco más.",
-  "autor" : "George Santayana"
-}, {
-  "id" : 31,
-  "texto" : "El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
-  "autor" : "Robert Collier"
-}, {
-  "id" : 32,
-  "texto" : "No esperes. El tiempo nunca será justo.",
-  "autor" : "Napoleon Hill"
-}, {
-  "id" : 33,
-  "texto" : "La vida sin esfuerzo es como un barco sin timón.",
-  "autor" : "Proverbio español"
-}, {
-  "id" : 34,
-  "texto" : "El verdadero descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.",
-  "autor" : "Marcel Proust"
-}, {
-  "id" : 35,
-  "texto" : "Para ser irremplazable, uno debe buscar siempre ser diferente.",
-  "autor" : "Coco Chanel"
-}, {
-  "id" : 36,
-  "texto" : "La única forma de hacer un trabajo excelente es amar lo que haces.",
-  "autor" : "Steve Jobs"
-}, {
-  "id" : 37,
-  "texto" : "No es la fuerza, sino la perseverancia, la que hace grandes las obras.",
-  "autor" : "Samuel Johnson"
-}, {
-  "id" : 38,
-  "texto" : "Tienes que esperar cosas de ti mismo antes de que puedas hacerlas.",
-  "autor" : "Michael Jordan"
-}, {
-  "id" : 39,
-  "texto" : "La diferencia entre un sueño y un objetivo es un plan.",
-  "autor" : "Anónimo"
-}, {
-  "id" : 40,
-  "texto" : "El éxito viene de saber que hiciste lo mejor para convertirte en lo mejor que eres capaz de ser.",
-  "autor" : "John Wooden"
-}, {
-  "id" : 41,
-  "texto" : "El mayor riesgo es no tomar ninguno. En un mundo que cambia realmente rápido, la única estrategia que garantiza el fracaso es no tomar riesgos.",
-  "autor" : "Mark Zuckerberg"
-}, {
-  "id" : 42,
-  "texto" : "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.",
-  "autor" : "Albert Einstein"
-}, {
-  "id" : 43,
-  "texto" : "Aprende como si fueras a vivir para siempre, vive como si fueras a morir mañana.",
-  "autor" : "Mahatma Gandhi"
-}, {
-  "id" : 44,
-  "texto" : "La grandeza nace de pequeños comienzos.",
-  "autor" : "Sir Francis Bacon"
-}, {
-  "id" : 45,
-  "texto" : "La creatividad es la inteligencia divirtiéndose.",
-  "autor" : "Albert Einstein"
-}, {
-  "id" : 46,
-  "texto" : "El arte de ser sabio es el arte de saber qué pasar por alto.",
-  "autor" : "William James"
-}, {
-  "id" : 47,
-  "texto" : "Solo se vive una vez, pero si lo haces bien, una vez es suficiente.",
-  "autor" : "Mae West"
-}, {
-  "id" : 48,
-  "texto" : "La persistencia puede cambiar el fracaso en un logro extraordinario.",
-  "autor" : "Matt Biondi"
-}, {
-  "id" : 49,
-  "texto" : "La innovación distingue a un líder de un seguidor.",
-  "autor" : "Steve Jobs"
-}, {
-  "id" : 50,
-  "texto" : "La vida es un desafío, encuéntralo.",
-  "autor" : "Madre Teresa"
-}, {
-  "id" : 51,
-  "texto" : "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
-  "autor" : "Nelson Mandela"
-}, {
-  "id" : 52,
-  "texto" : "Sé el cambio que quieres ver en el mundo.",
-  "autor" : "Mahatma Gandhi"
-}, {
-  "id" : 53,
-  "texto" : "Todo lo que siempre has querido está del otro lado del miedo.",
-  "autor" : "George Addair"
-}, {
-  "id" : 54,
-  "texto" : "El miedo es solo una ilusión, no deja que veas tu verdadero potencial.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 55,
-  "texto" : "La mayor gloria en la vida no reside en no caer nunca, sino en levantarnos cada vez que caemos.",
-  "autor" : "Nelson Mandela"
-}, {
-  "id" : 56,
-  "texto" : "Cada día es una nueva oportunidad para cambiar tu vida.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 57,
-  "texto" : "En la profundidad del invierno, finalmente aprendí que dentro de mí yace un verano invencible.",
-  "autor" : "Albert Camus"
-}, {
-  "id" : 58,
-  "texto" : "No es la carga lo que te derriba, sino cómo la llevas.",
-  "autor" : "Lou Holtz"
-}, {
-  "id" : 59,
-  "texto" : "Haz de tu vida un sueño, y de tu sueño una realidad.",
-  "autor" : "Antoine de Saint-Exupéry"
-}, {
-  "id" : 60,
-  "texto" : "No se trata de cuán fuerte golpeas, se trata de cuán fuerte puedes ser golpeado y seguir avanzando.",
-  "autor" : "Rocky Balboa"
-}, {
-  "id" : 61,
-  "texto" : "La resiliencia es saber que tú eres el único que tiene el poder y la responsabilidad de levantarte.",
-  "autor" : "Mary Holloway"
-}, {
-  "id" : 62,
-  "texto" : "El optimismo perpetuo es un multiplicador de fuerzas.",
-  "autor" : "Colin Powell"
-}, {
-  "id" : 63,
-  "texto" : "Lo que nos hace seres humanos es nuestra capacidad para preguntarnos por el significado de la vida.",
-  "autor" : "Viktor E. Frankl"
-}, {
-  "id" : 64,
-  "texto" : "Es durante nuestras horas más oscuras cuando debemos enfocarnos para ver la luz.",
-  "autor" : "Aristóteles Onassis"
-}, {
-  "id" : 65,
-  "texto" : "Aquellos que tienen un 'por qué' para vivir, pueden soportar casi cualquier 'cómo'.",
-  "autor" : "Viktor E. Frankl"
-}, {
-  "id" : 66,
-  "texto" : "Cuando no puedes encontrar el sol, sé el sol.",
-  "autor" : "Autor Desconocido"
-}, {
-  "id" : 67,
-  "texto" : "La esperanza es el sueño del hombre despierto.",
-  "autor" : "Aristóteles"
-}, {
-  "id" : 68,
-  "texto" : "Nunca es demasiado tarde para ser lo que podrías haber sido.",
-  "autor" : "George Elio"
-}, {
-  "id" : 69,
-  "texto" : "Solo aquellos que se atreven a fracasar grandemente pueden lograr mucho.",
-  "autor" : "Robert F. Kennedy"
-}, {
-  "id" : 70,
-  "texto" : "Nunca pierdas la esperanza. Los milagros suceden todos los días.",
-  "autor" : "H. Jackson Brown Jr."
-}, {
-  "id" : 71,
-  "texto" : "Cambia tus pensamientos y cambiarás tu mundo.",
-  "autor" : "Norman Vincent Peale"
-}, {
-  "id" : 72,
-  "texto" : "No es el más fuerte de las especies el que sobrevive, ni el más inteligente, sino el que mejor responde al cambio.",
-  "autor" : "Charles Darwin"
-}, {
-  "id" : 73,
-  "texto" : "Lo que enfrentamos puede parecer insuperable, pero tengo que creer que si le damos lo mejor de nosotros, superaremos cualquier desafío.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 74,
-  "texto" : "Siempre parece imposible hasta que se hace.",
-  "autor" : "Nelson Mandela"
-}, {
-  "id" : 75,
-  "texto" : "La mayor de las victorias es la conquista de uno mismo.",
-  "autor" : "Buda"
-}, {
-  "id" : 76,
-  "texto" : "No se mide el valor de un hombre por sus victorias, sino por las veces que se levanta cuando cae.",
-  "autor" : "Napoleón Bonaparte"
-}, {
-  "id" : 77,
-  "texto" : "Lo importante no es lo que nos hace el destino, sino lo que nosotros hacemos de él.",
-  "autor" : "Florence Nightingale"
-}, {
-  "id" : 78,
-  "texto" : "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
-  "autor" : "Eleanor Roosevelt"
-}, {
-  "id" : 79,
-  "texto" : "En el medio de la dificultad yace la oportunidad.",
-  "autor" : "Albert Einstein"
-}, {
-  "id" : 80,
-  "texto" : "Si miras lo que tienes en la vida, siempre tendrás más. Si miras lo que no tienes, nunca tendrás suficiente.",
-  "autor" : "Oprah Winfrey"
-}, {
-  "id" : 81,
-  "texto" : "No te rindas, el comienzo siempre es la parte más difícil.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 82,
-  "texto" : "La persistencia es el camino al éxito.",
-  "autor" : "Charles Chaplin"
-}, {
-  "id" : 83,
-  "texto" : "Un viaje de mil millas comienza con un solo paso.",
-  "autor" : "Lao-Tsé"
-}, {
-  "id" : 84,
-  "texto" : "La vida es 10% lo que me sucede y 90% cómo reacciono a ello.",
-  "autor" : "Charles R. Swindoll"
-}, {
-  "id" : 85,
-  "texto" : "La resiliencia no es solo recuperarse de las dificultades; es también ser fortalecido y mejorado por ellas.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 86,
-  "texto" : "La esperanza es como el sol, que arroja todas las sombras detrás de nosotros.",
-  "autor" : "Samuel Smiles"
-}, {
-  "id" : 87,
-  "texto" : "Lo que importa no es tanto el golpe, sino cómo te levantas después de caer.",
-  "autor" : "Autor desconocido"
-}, {
-  "id" : 88,
-  "texto" : "El optimismo es la fe que lleva al logro; nada puede ser realizado sin esperanza.",
-  "autor" : "Helen Keller"
-}, {
-  "id" : 89,
-  "texto" : "Los obstáculos no tienen que detenerte. Si te encuentras con un muro, no te des la vuelta y te rindas. Averigua cómo escalarlo, atravesarlo o rodearlo.",
-  "autor" : "Michael Jordan"
-}, {
-  "id" : 90,
-  "texto" : "La vida es una aventura atrevida o nada en absoluto.",
-  "autor" : "Helen Keller"
-}, {
-  "id" : 91,
-  "texto" : "Deja que tu sonrisa cambie el mundo, pero no dejes que el mundo cambie tu sonrisa.",
-  "autor" : "Connor Franta"
-}, {
-  "id" : 92,
-  "texto" : "Para tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.",
-  "autor" : "Bill Cosby"
-}, {
-  "id" : 93,
-  "texto" : "La verdadera felicidad proviene de la alegría de las obras bien hechas, la alegría de crear cosas nuevas.",
-  "autor" : "Antoine de Saint-Exupéry"
-}, {
-  "id" : 94,
-  "texto" : "No esperes a que pase la tormenta, aprende a bailar bajo la lluvia.",
-  "autor" : "Vivian Greene"
-}, {
-  "id" : 95,
-  "texto" : "Todo lo que la mente del hombre puede concebir y creer, lo puede lograr.",
-  "autor" : "Napoleon Hill"
-}, {
-  "id" : 96,
-  "texto" : "Si crees que puedes, ya estás a medio camino.",
-  "autor" : "Theodore Roosevelt"
-}, {
-  "id" : 97,
-  "texto" : "El éxito no se logra solo con cualidades especiales. Es sobre todo un trabajo de constancia, de método y de organización.",
-  "autor" : "Víctor Hugo"
-}, {
-  "id" : 98,
-  "texto" : "El mayor descubrimiento de mi generación es que un ser humano puede cambiar su vida cambiando su actitud mental.",
-  "autor" : "William James"
-}, {
-  "id" : 99,
-  "texto" : "Cree que puedes y ya estás a mitad de camino.",
-  "autor" : "Theodore Roosevelt"
-}, {
-  "id" : 100,
-  "texto" : "Actúa como si lo que haces marca una diferencia. Lo hace.",
-  "autor" : "William James"
-}, {
-  "id" : 101,
-  "texto" : "El éxito consiste en no rendirse jamás.",
-  "autor" : "Anónimo"
-} ]
+{
+  "version": 1,
+  "updatedAt": "2026-06-19",
+  "locale": "es-419",
+  "categories": [
+    {
+      "id": "ansiedad",
+      "name": "Ansiedad",
+      "icon": "brain"
+    },
+    {
+      "id": "disciplina",
+      "name": "Disciplina",
+      "icon": "target"
+    },
+    {
+      "id": "gym",
+      "name": "Gym",
+      "icon": "dumbbell"
+    },
+    {
+      "id": "emprender",
+      "name": "Emprender",
+      "icon": "rocket"
+    },
+    {
+      "id": "autoestima",
+      "name": "Autoestima",
+      "icon": "heart"
+    },
+    {
+      "id": "duelo",
+      "name": "Duelo",
+      "icon": "heart_hand"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "ansiedad_001",
+      "categoryId": "ansiedad",
+      "text": "El mayor descubrimiento de mi generación es que un ser humano puede cambiar su vida cambiando su actitud mental.",
+      "author": "William James",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_002",
+      "categoryId": "ansiedad",
+      "text": "No esperes a que pase la tormenta, aprende a bailar bajo la lluvia.",
+      "author": "Vivian Greene",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_003",
+      "categoryId": "ansiedad",
+      "text": "Si miras lo que tienes en la vida, siempre tendrás más. Si miras lo que no tienes, nunca tendrás suficiente.",
+      "author": "Oprah Winfrey",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_004",
+      "categoryId": "ansiedad",
+      "text": "El miedo es solo una ilusión, no deja que veas tu verdadero potencial.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_005",
+      "categoryId": "ansiedad",
+      "text": "Todo lo que siempre has querido está del otro lado del miedo.",
+      "author": "George Addair",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_006",
+      "categoryId": "ansiedad",
+      "text": "No es la carga lo que te derriba, sino cómo la llevas.",
+      "author": "Lou Holtz",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_007",
+      "categoryId": "ansiedad",
+      "text": "Cambia tus pensamientos y cambiarás tu mundo.",
+      "author": "Norman Vincent Peale",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_008",
+      "categoryId": "ansiedad",
+      "text": "La vida es un 10% lo que me ocurre y un 90% cómo reacciono a ello.",
+      "author": "Charles R. Swindoll",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_009",
+      "categoryId": "ansiedad",
+      "text": "El arte de ser sabio es el arte de saber qué pasar por alto.",
+      "author": "William James",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_010",
+      "categoryId": "ansiedad",
+      "text": "El verdadero descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.",
+      "author": "Marcel Proust",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_011",
+      "categoryId": "ansiedad",
+      "text": "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.",
+      "author": "Albert Einstein",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_012",
+      "categoryId": "ansiedad",
+      "text": "El coraje no siempre ruge. A veces, el coraje es la pequeña voz al final del día que dice: intentaré de nuevo mañana.",
+      "author": "Mary Anne Radmacher",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_013",
+      "categoryId": "ansiedad",
+      "text": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_001",
+      "categoryId": "disciplina",
+      "text": "La persistencia es el camino al éxito.",
+      "author": "Charles Chaplin",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_002",
+      "categoryId": "disciplina",
+      "text": "Un viaje de mil millas comienza con un solo paso.",
+      "author": "Lao-Tsé",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_003",
+      "categoryId": "disciplina",
+      "text": "Los obstáculos no tienen que detenerte. Si te encuentras con un muro, no te des la vuelta y te rindas. Averigua cómo escalarlo, atravesarlo o rodearlo.",
+      "author": "Michael Jordan",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_004",
+      "categoryId": "disciplina",
+      "text": "Para tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.",
+      "author": "Bill Cosby",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_005",
+      "categoryId": "disciplina",
+      "text": "No se mide el valor de un hombre por sus victorias, sino por las veces que se levanta cuando cae.",
+      "author": "Napoleón Bonaparte",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_006",
+      "categoryId": "disciplina",
+      "text": "El éxito no se logra solo con cualidades especiales. Es sobre todo un trabajo de constancia, de método y de organización.",
+      "author": "Víctor Hugo",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_007",
+      "categoryId": "disciplina",
+      "text": "La mayor de las victorias es la conquista de uno mismo.",
+      "author": "Buda",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_008",
+      "categoryId": "disciplina",
+      "text": "Lo importante no es lo que nos hace el destino, sino lo que nosotros hacemos de él.",
+      "author": "Florence Nightingale",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_009",
+      "categoryId": "disciplina",
+      "text": "No te rindas, el comienzo siempre es la parte más difícil.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "disciplina_010",
+      "categoryId": "disciplina",
+      "text": "El éxito consiste en no rendirse jamás.",
+      "author": "Anónimo",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "disciplina_011",
+      "categoryId": "disciplina",
+      "text": "Siempre parece imposible hasta que se hace.",
+      "author": "Nelson Mandela",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_012",
+      "categoryId": "disciplina",
+      "text": "Lo que importa no es tanto el golpe, sino cómo te levantas después de caer.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "disciplina_013",
+      "categoryId": "disciplina",
+      "text": "No se trata de cuán fuerte golpeas, se trata de cuán fuerte puedes ser golpeado y seguir avanzando.",
+      "author": "Rocky Balboa",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_014",
+      "categoryId": "disciplina",
+      "text": "La mayor gloria en la vida no reside en no caer nunca, sino en levantarnos cada vez que caemos.",
+      "author": "Nelson Mandela",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_015",
+      "categoryId": "disciplina",
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_016",
+      "categoryId": "disciplina",
+      "text": "Aquellos que tienen un 'por qué' para vivir, pueden soportar casi cualquier 'cómo'.",
+      "author": "Viktor E. Frankl",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_017",
+      "categoryId": "disciplina",
+      "text": "El optimismo perpetuo es un multiplicador de fuerzas.",
+      "author": "Colin Powell",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_018",
+      "categoryId": "disciplina",
+      "text": "No es la montaña la que conquistamos, sino a nosotros mismos.",
+      "author": "Edmund Hillary",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_019",
+      "categoryId": "disciplina",
+      "text": "No esperes. El tiempo nunca será justo.",
+      "author": "Napoleon Hill",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_020",
+      "categoryId": "disciplina",
+      "text": "La vida es un desafío, encuéntralo.",
+      "author": "Madre Teresa",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_021",
+      "categoryId": "disciplina",
+      "text": "Lo que haces hoy puede mejorar todos tus mañanas.",
+      "author": "Ralph Marston",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_022",
+      "categoryId": "disciplina",
+      "text": "Lo único imposible es aquello que no intentas.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "disciplina_023",
+      "categoryId": "disciplina",
+      "text": "Lo difícil se hace de inmediato; lo imposible tarda un poco más.",
+      "author": "Desconocido",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_024",
+      "categoryId": "disciplina",
+      "text": "La vida sin esfuerzo es como un barco sin timón.",
+      "author": "Proverbio español",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_025",
+      "categoryId": "disciplina",
+      "text": "La grandeza nace de pequeños comienzos.",
+      "author": "Francis Bacon",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_026",
+      "categoryId": "disciplina",
+      "text": "La persistencia puede cambiar el fracaso en un logro extraordinario.",
+      "author": "Matt Biondi",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_027",
+      "categoryId": "disciplina",
+      "text": "La perseverancia no es una larga carrera; son muchas carreras cortas, una tras otra.",
+      "author": "Walter Elliot",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_028",
+      "categoryId": "disciplina",
+      "text": "En la vida no se trata de tener buenas cartas, sino de jugar bien las que uno tiene.",
+      "author": "Josh Billings",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_029",
+      "categoryId": "disciplina",
+      "text": "Si buscas resultados distintos, no hagas siempre lo mismo.",
+      "author": "Albert Einstein",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_030",
+      "categoryId": "disciplina",
+      "text": "Actúa como si lo que haces marca la diferencia. Lo hace.",
+      "author": "William James",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_031",
+      "categoryId": "disciplina",
+      "text": "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora.",
+      "author": "Proverbio chino",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_032",
+      "categoryId": "disciplina",
+      "text": "No es la fuerza, sino la perseverancia, la que hace grandes las obras.",
+      "author": "Samuel Johnson",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_033",
+      "categoryId": "disciplina",
+      "text": "El éxito viene de saber que hiciste lo mejor para convertirte en lo mejor que eres capaz de ser.",
+      "author": "John Wooden",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_034",
+      "categoryId": "disciplina",
+      "text": "El éxito no se mide por lo que logras, sino por los obstáculos que superas.",
+      "author": "Booker T. Washington",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_035",
+      "categoryId": "disciplina",
+      "text": "El éxito es la suma de pequeños esfuerzos, repetidos día tras día.",
+      "author": "Robert Collier",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_036",
+      "categoryId": "disciplina",
+      "text": "Aprende como si fueras a vivir para siempre, vive como si fueras a morir mañana.",
+      "author": "Mahatma Gandhi",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "disciplina_037",
+      "categoryId": "disciplina",
+      "text": "El único límite a nuestros logros de mañana está en nuestras dudas de hoy.",
+      "author": "Franklin D. Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_038",
+      "categoryId": "disciplina",
+      "text": "Haz lo que puedes, con lo que tienes, donde estás.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_039",
+      "categoryId": "disciplina",
+      "text": "El éxito no es definitivo, el fracaso no es fatal: es el coraje de continuar lo que cuenta.",
+      "author": "Winston Churchill",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "gym_001",
+      "categoryId": "gym",
+      "text": "La disciplina es el puente entre metas y logros.",
+      "author": "Jim Rohn",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "gym_002",
+      "categoryId": "gym",
+      "text": "Tu cuerpo puede soportar casi todo. Es tu mente la que tienes que convencer.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "gym_003",
+      "categoryId": "gym",
+      "text": "El dolor que sientes hoy será la fuerza que sentirás mañana.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "gym_004",
+      "categoryId": "gym",
+      "text": "El único entrenamiento malo es el que no hiciste.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "gym_005",
+      "categoryId": "gym",
+      "text": "Tienes que esperar cosas de ti mismo antes de que puedas hacerlas.",
+      "author": "Michael Jordan",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "gym_006",
+      "categoryId": "gym",
+      "text": "No cuentes los días, haz que los días cuenten.",
+      "author": "Muhammad Ali",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_001",
+      "categoryId": "emprender",
+      "text": "Todo lo que la mente del hombre puede concebir y creer, lo puede lograr.",
+      "author": "Napoleon Hill",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_002",
+      "categoryId": "emprender",
+      "text": "No es el más fuerte de las especies el que sobrevive, ni el más inteligente, sino el que mejor responde al cambio.",
+      "author": "Charles Darwin",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_003",
+      "categoryId": "emprender",
+      "text": "En el medio de la dificultad yace la oportunidad.",
+      "author": "Albert Einstein",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_004",
+      "categoryId": "emprender",
+      "text": "Solo aquellos que se atreven a fracasar grandemente pueden lograr mucho.",
+      "author": "Robert F. Kennedy",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_005",
+      "categoryId": "emprender",
+      "text": "El éxito es tropezar de fracaso en fracaso sin perder el entusiasmo.",
+      "author": "Winston S. Churchill",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_006",
+      "categoryId": "emprender",
+      "text": "La creatividad es la inteligencia divirtiéndose.",
+      "author": "Albert Einstein",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_007",
+      "categoryId": "emprender",
+      "text": "La mejor manera de predecir el futuro es inventándolo.",
+      "author": "Alan Kay",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_008",
+      "categoryId": "emprender",
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_009",
+      "categoryId": "emprender",
+      "text": "La innovación distingue a un líder de un seguidor.",
+      "author": "Steve Jobs",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_010",
+      "categoryId": "emprender",
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_011",
+      "categoryId": "emprender",
+      "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+      "author": "Eleanor Roosevelt",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_012",
+      "categoryId": "emprender",
+      "text": "Nuestros sueños pueden convertirse en realidad si los deseamos tanto como para ir tras ellos.",
+      "author": "Walt Disney",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_013",
+      "categoryId": "emprender",
+      "text": "Sólo aquellos que se atreven a tener grandes fracasos terminan consiguiendo grandes éxitos.",
+      "author": "Robert F. Kennedy",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_014",
+      "categoryId": "emprender",
+      "text": "El mayor riesgo es no tomar ninguno. En un mundo que cambia realmente rápido, la única estrategia que garantiza el fracaso es no tomar riesgos.",
+      "author": "Mark Zuckerberg",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_015",
+      "categoryId": "emprender",
+      "text": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
+      "author": "Isaac Newton",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "emprender_016",
+      "categoryId": "emprender",
+      "text": "La diferencia entre un sueño y un objetivo es un plan.",
+      "author": "Anónimo",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "emprender_017",
+      "categoryId": "emprender",
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_001",
+      "categoryId": "autoestima",
+      "text": "Deja que tu sonrisa cambie el mundo, pero no dejes que el mundo cambie tu sonrisa.",
+      "author": "Connor Franta",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_002",
+      "categoryId": "autoestima",
+      "text": "Si crees que puedes, ya estás a medio camino.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_003",
+      "categoryId": "autoestima",
+      "text": "Lo que enfrentamos puede parecer insuperable, pero tengo que creer que si le damos lo mejor de nosotros, superaremos cualquier desafío.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "autoestima_004",
+      "categoryId": "autoestima",
+      "text": "La vida es una aventura atrevida o nada en absoluto.",
+      "author": "Helen Keller",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_005",
+      "categoryId": "autoestima",
+      "text": "La verdadera felicidad proviene de la alegría de las obras bien hechas, la alegría de crear cosas nuevas.",
+      "author": "Antoine de Saint-Exupéry",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_006",
+      "categoryId": "autoestima",
+      "text": "Haz de tu vida un sueño, y de tu sueño una realidad.",
+      "author": "Antoine de Saint-Exupéry",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_007",
+      "categoryId": "autoestima",
+      "text": "Cuando no puedes encontrar el sol, sé el sol.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "autoestima_008",
+      "categoryId": "autoestima",
+      "text": "Cada día es una nueva oportunidad para cambiar tu vida.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "autoestima_009",
+      "categoryId": "autoestima",
+      "text": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+      "author": "George Eliot",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_010",
+      "categoryId": "autoestima",
+      "text": "Solo se vive una vez, pero si lo haces bien, una vez es suficiente.",
+      "author": "Mae West",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_011",
+      "categoryId": "autoestima",
+      "text": "La felicidad no es algo ya hecho. Viene de tus propias acciones.",
+      "author": "Dalai Lama",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_012",
+      "categoryId": "autoestima",
+      "text": "Cree en ti mismo y todo lo que eres. Saber que hay algo dentro de ti que es más grande que cualquier obstáculo.",
+      "author": "Christian D. Larson",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_013",
+      "categoryId": "autoestima",
+      "text": "Sé tú mismo; todos los demás ya están ocupados.",
+      "author": "Oscar Wilde",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_014",
+      "categoryId": "autoestima",
+      "text": "El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.",
+      "author": "Helen Keller",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_015",
+      "categoryId": "autoestima",
+      "text": "Para ser irremplazable, uno debe buscar siempre ser diferente.",
+      "author": "Coco Chanel",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "autoestima_016",
+      "categoryId": "autoestima",
+      "text": "No vivas para que tu presencia se note, sino para que tu falta se sienta.",
+      "author": "Bob Marley",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_001",
+      "categoryId": "duelo",
+      "text": "La esperanza es como el sol, que arroja todas las sombras detrás de nosotros.",
+      "author": "Samuel Smiles",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_002",
+      "categoryId": "duelo",
+      "text": "La resiliencia no es solo recuperarse de las dificultades; es también ser fortalecido y mejorado por ellas.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
+      "tags": []
+    },
+    {
+      "id": "duelo_003",
+      "categoryId": "duelo",
+      "text": "Nunca pierdas la esperanza. Los milagros suceden todos los días.",
+      "author": "H. Jackson Brown Jr.",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_004",
+      "categoryId": "duelo",
+      "text": "Es durante nuestras horas más oscuras cuando debemos enfocarnos para ver la luz.",
+      "author": "Aristóteles Onassis",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_005",
+      "categoryId": "duelo",
+      "text": "Lo que nos hace seres humanos es nuestra capacidad para preguntarnos por el significado de la vida.",
+      "author": "Viktor E. Frankl",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_006",
+      "categoryId": "duelo",
+      "text": "La esperanza es el sueño del hombre despierto.",
+      "author": "Aristóteles",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_007",
+      "categoryId": "duelo",
+      "text": "La resiliencia es saber que tú eres el único que tiene el poder y la responsabilidad de levantarte.",
+      "author": "Mary Holloway",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_008",
+      "categoryId": "duelo",
+      "text": "En la profundidad del invierno, finalmente aprendí que dentro de mí yace un verano invencible.",
+      "author": "Albert Camus",
+      "sourceType": "attributed",
+      "tags": []
+    }
+  ]
+}
