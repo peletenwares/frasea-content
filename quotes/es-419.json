@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-06-19",
+  "version": 2,
+  "updatedAt": "2026-06-21",
   "locale": "es-419",
   "categories": [
     {
@@ -137,6 +137,126 @@
       "text": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
       "author": "John Lennon",
       "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_014",
+      "categoryId": "ansiedad",
+      "text": "Vivir felizmente es una fuerza interior del alma.",
+      "author": "Marco Aurelio",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_015",
+      "categoryId": "ansiedad",
+      "text": "No pidas que las cosas ocurran como quieres; quiere que ocurran como ocurren, y te irá bien.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_016",
+      "categoryId": "ansiedad",
+      "text": "Primero, no te dejes confundir por las apariencias.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_017",
+      "categoryId": "ansiedad",
+      "text": "La esperanza es esa cosa con plumas.",
+      "author": "Emily Dickinson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_018",
+      "categoryId": "ansiedad",
+      "text": "No temo las tormentas: estoy aprendiendo a manejar mi barco.",
+      "author": "Louisa May Alcott",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_019",
+      "categoryId": "ansiedad",
+      "text": "Mañana es un día nuevo, sin errores todavía.",
+      "author": "Lucy Maud Montgomery",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_020",
+      "categoryId": "ansiedad",
+      "text": "Qué maravilla que existan las mañanas.",
+      "author": "Lucy Maud Montgomery",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_021",
+      "categoryId": "ansiedad",
+      "text": "Las almas afines no son tan escasas como creía.",
+      "author": "Lucy Maud Montgomery",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_022",
+      "categoryId": "ansiedad",
+      "text": "No hay encanto igual a la ternura del corazón.",
+      "author": "Jane Austen",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_023",
+      "categoryId": "ansiedad",
+      "text": "Piensa en el pasado solo cuando recordarlo te haga bien.",
+      "author": "Jane Austen",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_024",
+      "categoryId": "ansiedad",
+      "text": "La verdad completa casi nunca cabe en una sola versión.",
+      "author": "Jane Austen",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_025",
+      "categoryId": "ansiedad",
+      "text": "Siempre hay luz detrás de las nubes.",
+      "author": "Louisa May Alcott",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_026",
+      "categoryId": "ansiedad",
+      "text": "Donde cuidas una rosa, no crece un cardo.",
+      "author": "Frances Hodgson Burnett",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_027",
+      "categoryId": "ansiedad",
+      "text": "No tenemos motivo para desconfiar de nuestro mundo.",
+      "author": "Rainer Maria Rilke",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "ansiedad_028",
+      "categoryId": "ansiedad",
+      "text": "El futuro entra en nosotros mucho antes de suceder.",
+      "author": "Rainer Maria Rilke",
+      "sourceType": "verified",
       "tags": []
     },
     {
@@ -452,6 +572,126 @@
       "tags": []
     },
     {
+      "id": "disciplina_040",
+      "categoryId": "disciplina",
+      "text": "Resuelve hacer lo que debes; cumple sin falta lo que resuelves.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_041",
+      "categoryId": "disciplina",
+      "text": "No pierdas tiempo; ocúpate siempre en algo útil.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_042",
+      "categoryId": "disciplina",
+      "text": "Cada cosa en su lugar; cada parte del trabajo en su tiempo.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_043",
+      "categoryId": "disciplina",
+      "text": "Nada digno se logra sin aplicación y diligencia.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_044",
+      "categoryId": "disciplina",
+      "text": "El fracaso vencido por perseverancia también enseña.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_045",
+      "categoryId": "disciplina",
+      "text": "Si no sabes a qué puerto vas, ningún viento será favorable.",
+      "author": "Séneca",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_046",
+      "categoryId": "disciplina",
+      "text": "Sigamos avanzando y perseveremos.",
+      "author": "Séneca",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_047",
+      "categoryId": "disciplina",
+      "text": "Gran parte del progreso empieza con querer progresar.",
+      "author": "Séneca",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_048",
+      "categoryId": "disciplina",
+      "text": "Si quieres mejorar, empieza por las cosas pequeñas.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_049",
+      "categoryId": "disciplina",
+      "text": "Ejercita lo que está en tu poder.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_050",
+      "categoryId": "disciplina",
+      "text": "Si algo debe hacerse, no temas que te vean hacerlo.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_051",
+      "categoryId": "disciplina",
+      "text": "No postergues tu mejora de un día para otro.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_052",
+      "categoryId": "disciplina",
+      "text": "Si no es correcto, no lo hagas; si no es verdad, no lo digas.",
+      "author": "Marco Aurelio",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_053",
+      "categoryId": "disciplina",
+      "text": "Lo que estorba el camino puede convertirse en camino.",
+      "author": "Marco Aurelio",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "disciplina_054",
+      "categoryId": "disciplina",
+      "text": "Haz lo que te corresponde; deja lo demás en su lugar.",
+      "author": "Marco Aurelio",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
       "id": "gym_001",
       "categoryId": "gym",
       "text": "La disciplina es el puente entre metas y logros.",
@@ -497,6 +737,126 @@
       "text": "No cuentes los días, haz que los días cuenten.",
       "author": "Muhammad Ali",
       "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "gym_007",
+      "categoryId": "gym",
+      "text": "Antes de competir, acepta el entrenamiento que exige.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_008",
+      "categoryId": "gym",
+      "text": "Entrena tu cuerpo a una hora fija, con ganas o sin ellas.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_009",
+      "categoryId": "gym",
+      "text": "Entrena para ti, no para que te miren.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_010",
+      "categoryId": "gym",
+      "text": "No busques hazañas; construye resistencia en silencio.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_011",
+      "categoryId": "gym",
+      "text": "El mérito pertenece a quien está en la arena.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_012",
+      "categoryId": "gym",
+      "text": "No hay esfuerzo real sin tropiezos.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_013",
+      "categoryId": "gym",
+      "text": "Quien se esfuerza de verdad también falla y vuelve.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_014",
+      "categoryId": "gym",
+      "text": "Pon corazón y fuerza en una causa digna.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_015",
+      "categoryId": "gym",
+      "text": "No cuenta quien critica, sino quien lo intenta.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_016",
+      "categoryId": "gym",
+      "text": "La facilidad llega con la práctica.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_017",
+      "categoryId": "gym",
+      "text": "La fuerza se gana con esfuerzo repetido.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_018",
+      "categoryId": "gym",
+      "text": "Todo gran trabajo nace de preparación constante.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_019",
+      "categoryId": "gym",
+      "text": "La dificultad también es una escuela.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_020",
+      "categoryId": "gym",
+      "text": "La constancia convierte lo difícil en posible.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "gym_021",
+      "categoryId": "gym",
+      "text": "El cuerpo mejora cuando el hábito deja de negociar.",
+      "author": "Desconocido",
+      "sourceType": "unknown",
       "tags": []
     },
     {
@@ -636,6 +996,126 @@
       "tags": []
     },
     {
+      "id": "emprender_018",
+      "categoryId": "emprender",
+      "text": "No puedes unir los puntos mirando hacia adelante.",
+      "author": "Steve Jobs",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_019",
+      "categoryId": "emprender",
+      "text": "Confía en que los puntos se conectarán más adelante.",
+      "author": "Steve Jobs",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_020",
+      "categoryId": "emprender",
+      "text": "A veces la vida golpea fuerte; no pierdas la fe.",
+      "author": "Steve Jobs",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_021",
+      "categoryId": "emprender",
+      "text": "Sigue buscando; no te conformes.",
+      "author": "Steve Jobs",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_022",
+      "categoryId": "emprender",
+      "text": "Tu tiempo es limitado; no vivas la vida de otro.",
+      "author": "Steve Jobs",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_023",
+      "categoryId": "emprender",
+      "text": "Lanza rápido: empezar enseña más que esperar.",
+      "author": "Paul Graham",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_024",
+      "categoryId": "emprender",
+      "text": "Deja que tu idea evolucione con la realidad.",
+      "author": "Paul Graham",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_025",
+      "categoryId": "emprender",
+      "text": "Entiende a tus usuarios; ahí empieza el producto.",
+      "author": "Paul Graham",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_026",
+      "categoryId": "emprender",
+      "text": "Es mejor que pocos te amen a que muchos duden.",
+      "author": "Paul Graham",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_027",
+      "categoryId": "emprender",
+      "text": "Al comienzo, busca usuarios uno por uno.",
+      "author": "Paul Graham",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_028",
+      "categoryId": "emprender",
+      "text": "La diligencia es madre de la buena suerte.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_029",
+      "categoryId": "emprender",
+      "text": "Un hoy vale más que dos mañanas.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_030",
+      "categoryId": "emprender",
+      "text": "Dirige tu negocio; no dejes que él te dirija.",
+      "author": "Benjamin Franklin",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_031",
+      "categoryId": "emprender",
+      "text": "Aprendemos más del fracaso que del éxito.",
+      "author": "Samuel Smiles",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "emprender_032",
+      "categoryId": "emprender",
+      "text": "Si fallas, que sea por atreverte.",
+      "author": "Theodore Roosevelt",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
       "id": "autoestima_001",
       "categoryId": "autoestima",
       "text": "Deja que tu sonrisa cambie el mundo, pero no dejes que el mundo cambie tu sonrisa.",
@@ -764,6 +1244,126 @@
       "tags": []
     },
     {
+      "id": "autoestima_017",
+      "categoryId": "autoestima",
+      "text": "Confía en ti mismo.",
+      "author": "Ralph Waldo Emerson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_018",
+      "categoryId": "autoestima",
+      "text": "Insiste en ser tú; no imites.",
+      "author": "Ralph Waldo Emerson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_019",
+      "categoryId": "autoestima",
+      "text": "Nada puede darte paz salvo tú mismo.",
+      "author": "Ralph Waldo Emerson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_020",
+      "categoryId": "autoestima",
+      "text": "Debo ser yo mismo.",
+      "author": "Ralph Waldo Emerson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_021",
+      "categoryId": "autoestima",
+      "text": "Tu propio talento solo puedes presentarlo tú.",
+      "author": "Ralph Waldo Emerson",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_022",
+      "categoryId": "autoestima",
+      "text": "Existo como soy, y eso basta.",
+      "author": "Walt Whitman",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_023",
+      "categoryId": "autoestima",
+      "text": "No necesito ser entendido para tener valor.",
+      "author": "Walt Whitman",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_024",
+      "categoryId": "autoestima",
+      "text": "Soy amplio: contengo multitudes.",
+      "author": "Walt Whitman",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_025",
+      "categoryId": "autoestima",
+      "text": "A ti mismo sé fiel.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_026",
+      "categoryId": "autoestima",
+      "text": "Me cuido; incluso sin apoyo, me respeto.",
+      "author": "Charlotte Brontë",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_027",
+      "categoryId": "autoestima",
+      "text": "Mi respeto por mí no depende de estar acompañado.",
+      "author": "Charlotte Brontë",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_028",
+      "categoryId": "autoestima",
+      "text": "Mi valor no se reduce por la voluntad de otros.",
+      "author": "Jane Austen",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_029",
+      "categoryId": "autoestima",
+      "text": "Mi valentía crece cuando intentan intimidarme.",
+      "author": "Jane Austen",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_030",
+      "categoryId": "autoestima",
+      "text": "Sé alguien en lo que sí depende de ti.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "autoestima_031",
+      "categoryId": "autoestima",
+      "text": "Preséntate ante ti mismo; eso basta.",
+      "author": "Epicteto",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
       "id": "duelo_001",
       "categoryId": "duelo",
       "text": "La esperanza es como el sol, que arroja todas las sombras detrás de nosotros.",
@@ -824,6 +1424,126 @@
       "categoryId": "duelo",
       "text": "En la profundidad del invierno, finalmente aprendí que dentro de mí yace un verano invencible.",
       "author": "Albert Camus",
+      "sourceType": "attributed",
+      "tags": []
+    },
+    {
+      "id": "duelo_009",
+      "categoryId": "duelo",
+      "text": "El amor conoce su profundidad en la hora de la separación.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_010",
+      "categoryId": "duelo",
+      "text": "La alegría y la tristeza nacen del mismo pozo.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_011",
+      "categoryId": "duelo",
+      "text": "Cuanto más hondo talla la tristeza, más alegría puede caber.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_012",
+      "categoryId": "duelo",
+      "text": "Cuando estés triste, mira de nuevo en tu corazón.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_013",
+      "categoryId": "duelo",
+      "text": "A veces lloras aquello que fue tu alegría.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_014",
+      "categoryId": "duelo",
+      "text": "La alegría y la tristeza caminan juntas.",
+      "author": "Kahlil Gibran",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_015",
+      "categoryId": "duelo",
+      "text": "Dale palabras al dolor.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_016",
+      "categoryId": "duelo",
+      "text": "El dolor que no habla carga demasiado el corazón.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_017",
+      "categoryId": "duelo",
+      "text": "También debo sentirlo como humano.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_018",
+      "categoryId": "duelo",
+      "text": "La memoria convoca lo que el tiempo se llevó.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_019",
+      "categoryId": "duelo",
+      "text": "Los amigos queridos viven en la noche de la memoria.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_020",
+      "categoryId": "duelo",
+      "text": "Pensar en quien amas puede aliviar una pena.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_021",
+      "categoryId": "duelo",
+      "text": "El amor recordado todavía enriquece el alma.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_022",
+      "categoryId": "duelo",
+      "text": "El amor verdadero no cambia cuando todo cambia.",
+      "author": "William Shakespeare",
+      "sourceType": "verified",
+      "tags": []
+    },
+    {
+      "id": "duelo_023",
+      "categoryId": "duelo",
+      "text": "Es mejor haber amado y perdido que no haber amado nunca.",
+      "author": "Alfred Tennyson",
       "sourceType": "attributed",
       "tags": []
     }
